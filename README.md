@@ -4,7 +4,6 @@ Questo progetto è un'applicazione web interattiva progettata come strumento did
 
 Lo scopo è quello di rendere tangibili concetti computazionali astratti, permettendo agli utenti di "impersonare" un modello linguistico e di sperimentare in prima persona il processo di generazione del testo, token per token.
 
-![Immagine del Simulatore](https://i.imgur.com/G5qWJ4p.png)
 
 ---
 
