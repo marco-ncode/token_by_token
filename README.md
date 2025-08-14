@@ -21,7 +21,7 @@ Lo scopo è quello di rendere tangibili concetti computazionali astratti, permet
 
 ## 🧠 Concetti Didattici Dimostrati
 
-Questo strumento aiuta a superare il "black box problem" nell'educazione sull'IA, rendendo visibili i seguenti concetti chiave:
+Questo strumento aiuta a superare il "black box problem" nell'educazione sui modelli di linguaggio, rendendo visibili i seguenti concetti chiave:
 
 - **Generazione Sequenziale**: Gli studenti comprendono che il testo viene creato un token dopo l'altro e che ogni nuovo token dipende da tutti quelli che lo precedono.
 - **Ragionamento Probabilistico**: L'applicazione rende evidente che gli LLM non "scelgono" una parola, ma calcolano una distribuzione di probabilità su un vocabolario e selezionano da essa.
