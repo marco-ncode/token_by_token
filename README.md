@@ -1,6 +1,6 @@
 # Simulatore Token-by-Token di LLM
 
-Questo progetto è un'applicazione web interattiva progettata come strumento didattico per dimostrare i meccanismi di base dei **Large Language Models (LLM)**. L'applicazione è direttamente ispirata al paper accademico *"Interactive Token-by-Token Simulation: A Novel Pedagogical Framework for Understanding Language Model Behavior and Hallucination Phenomena"*.
+Questo progetto è un'applicazione web interattiva progettata come strumento didattico per dimostrare i meccanismi di base dei **Large Language Models (LLM)**. L'applicazione è direttamente ispirata al paper *"Interactive Token-by-Token Simulation: A Novel Pedagogical Framework for Understanding Language Model Behavior and Hallucination Phenomena"* ancora in revisione.
 
 Lo scopo è quello di rendere tangibili concetti computazionali astratti, permettendo agli utenti di "impersonare" un modello linguistico e di sperimentare in prima persona il processo di generazione del testo, token per token.
 
